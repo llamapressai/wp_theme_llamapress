@@ -1,5 +1,6 @@
+</div>
 </main>
-<footer class="bg-gray-900 text-white py-12 w-full md:fixed md:bottom-0" data-llama-id="57" data-llama-snippet-id="2" data-llama-editable="true">
+<footer class="bg-gray-900 text-white py-12 w-full" data-llama-id="57" data-llama-snippet-id="2" data-llama-editable="true">
         <div class="container mx-auto px-4" data-llama-id="58" data-llama-snippet-id="2" data-llama-editable="true">
           <div class="grid grid-cols-1 md:grid-cols-4 gap-8" data-llama-id="59" data-llama-snippet-id="2" data-llama-editable="true">
             <div class="mb-8 md:mb-0" data-llama-id="60" data-llama-snippet-id="2" data-llama-editable="true">

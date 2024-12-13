@@ -6,7 +6,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <?php wp_head(); ?>
 </head>
-<body <?php body_class(); ?>>
+<body <?php body_class('flex flex-col min-h-screen'); ?>>
 <nav class="bg-gray-800 p-4" data-llama="app/views/layouts/llama_bot.html.erb" data-llama-id="9" data-llama-editable="true" data-llama-snippet-id="1">
 <div class="container mx-auto" data-llama="app/views/layouts/llama_bot.html.erb" data-llama-id="10" data-llama-editable="true" data-llama-snippet-id="1">
 <div class="flex justify-between items-center" data-llama="app/views/layouts/llama_bot.html.erb" data-llama-id="11" data-llama-editable="true" data-llama-snippet-id="1">
@@ -73,4 +73,5 @@
             <h1 class="text-2xl"><a href="<?php echo home_url(); ?>"><?php bloginfo('name'); ?></a></h1>
         </div>
     </header> -->
-    <main class="container mx-auto p-4 flex-grow">
+    <main class="flex-1">
+        <div class="container mx-auto p-4">
